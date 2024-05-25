@@ -1,1 +1,10 @@
-[README.md](https://github.com/rahul-jerthi/basic-calcculator/files/15442116/README.md)
+
+# Basic Calculator (c++)
+
+This C++ program implements a basic calculator that can perform the following operations:
+
+#### Addition 
+#### Subtraction
+#### Multiplication
+#### Division
+
